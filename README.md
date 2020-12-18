@@ -1,2 +1,2 @@
 # learningbash
-scripts for learning bash
+scripts that I use for learning bash
